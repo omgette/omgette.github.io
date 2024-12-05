@@ -1,72 +1,48 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
-
-> https://varadbhogayata.github.io
-
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+# Welcome to My Portfolio!
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://omgette.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
+## Connect With Me
+<div align="left">
+  <a href="https://www.linkedin.com/in/olivia-gette-2702062a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/omgette">
+    <img src="https://img.shields.io/badge/GitHub-Visit-lightgrey?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=olivia.gette@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me">
+  </a>
+  <a href="Gette_Olivia_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge" alt="Download Resume">
+  </a>
+</div>
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## About Me
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+I am a third year Data Science Student at Michigan Technological University. I enjoy problem-solving and coding. I have a passion for data analysis and medical device technology. As a student-athlete, I strive to merge analytical rigor with creative problem solving. My current goal is to secure an internship that allows me to apply my skills in a real world setting while being able to contribute to impactful projects. 
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+## Skills
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+- **Languages**: Java, Python, Julia, SQL, Bash, Perl, Powershell
+- **Data Analysis Tools**: Pandas, Seaborn, Matplotlib, NumPy  
+- **Development Tools**: Git, Linux, JupyterLab
+- **Specialized Skills**: Statistical Modeling, Hypothesis Testing, Algorithm Design
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+## Projects Showcase
 
-## Contributing 💡
-#### Step 1
+### [DATA1201: Data Science Portfolio](https://github.com/omgette/data1201)
+This repository showcases various data science projects, including data cleaning, learning Linux fundamentals, and controlling files.
 
-- **Option 1**
-    - 🍴 Fork this repo!
+### [Exploring Polynomial Interpolation](https://github.com/omgette/omgette.github.io/blob/main/FinalProject.ipynb)
+Explores the stability and accuracy of different polynomial interpolation methods
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+<div style="text-align: left;">
+    <img src="https://github.com/omgette/omgette.github.io/blob/main/assets/img/oliviagette.jpg" alt="Olivia Gette" width="200" align="left">
+</div>
